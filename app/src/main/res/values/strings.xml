@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">ToursGuide</string>
+    <string name="link1">
+        <a href="https://www.justdial.com/Nanded/Baba-Petroleum-Manik-Nagar-Dabhad-Tal-Ardhapur-Ardhapur-Nanded/9999P2462-2462-180227133753-N6B6_">Baba Petrol Pump</a>
+    </string>
+    <string name="link2">
+        <a href="https://www.justdial.com/Nanded/Lala-Petroleum-Near-Airport-Nagpur-Road-Nanded-Ho/9999P2462-2462-160907122958-L7N8_BZDET">Lala Petrol Pump</a>
+    </string>
+    <string name="link3">
+        <a href="https://www.justdial.com/Nanded/Gundegaokar-Petrol-Pump-Nanded-HO/9999P2462-2462-180913031741-X1N6_BZDET"> Gundegaokar Petrol Pump</a>
+    </string>
+    <string name="link4">
+        <a href="https://www.alamy.com/stock-photo-ghats-of-godavari-river-with-gurudwaras-on-the-sides-nanded-maharashtra-95879312.html">GODAVARI NADI</a>
+    </string>
+
+    <string name="link5">
+        <a href="https://www.tripadvisor.in/Attraction_Review-g968669-d10212614-Reviews-Sahastrakund_Waterfall-Nanded_Nanded_District_Maharashtra.html">SAHASTRAKUND WATERFALL</a>
+    </string>
+
+    <string name="link6">
+        <a href="https://www.justdial.com/Nanded/Visava-Garden-Vishnu-Nagar/9999P2462-2462-180303050234-K3J6_BZDET">VISAWA GARDEN</a>
+    </string>
+
+    <string name="link7">
+        <a href="https://drscgmcnanded.in/">GMC VISHNUPURI</a>
+    </string>
+
+    <string name="link8">
+        <a href="https://www.justdial.com/Nanded/Renukai-Critical-Care-Center-And-Multispeciality-Hospital-Behind-LIC-Office-Nanded-HO/9999P2462-2462-180503081510-Q5R5_BZDET">Renuka Multispecialist Hospital</a>
+    </string>
+
+    <string name="link9">
+        <a href="https://www.sehat.com/yashosai-hospital-nanded">Yashosai Hospital</a>
+    </string>
+
+    <string name="link10">
+        <a href="https://www.justdial.com/Nanded/Sunny-Dhaba-Family-Restaurant-Beside-Abchal-Nagar-Kaman-Nanded/9999P2462-2462-180225113038-T7I4_BZDET">Sunny Family Restaurant</a>
+    </string>
+
+    <string name="link11">
+        <a href="https://www.top-rated.online/cities/Nanded/place/p/2977974/S+S+Bar+%26+Restaurant">Angad SS complex &amp; Famiy Restaurant</a>
+    </string>
+
+    <string name="link12">
+        <a href="https://www.tripadvisor.in/Hotel_Review-g968669-d19807912-Reviews-Hotel_Tulsi_Comfort-Nanded_Nanded_District_Maharashtra.html">Tulsi Confort</a>
+    </string>
+
+
+    <string name="link13">
+        <a href="https://www.maharashtratourism.gov.in/-/nanded-gurudwara-nanded-">Takhat Sachkhand Sri Hazur Abhchal Nagar sahib
+        Gurudwara Road Yatri Niwas
+        Rd,Nanded,
+        Maharashtra 431601</a>
+    </string>
+
+
+    <string name="link14">
+        <a href="https://www.justdial.com/Nanded/Kaleshwar-Mandir-Vishnupuri-Nanded/9999P2462-2462-190911011541-H6I8_BZDET">Kaleshwar Mandhir Vishnupuri
+Nanded waghala Maharashtra 431606</a>
+    </string>
+
+
+    <string name="link15">
+        <a href="https://www.justdial.com/Nanded/Mata-Ratneshwari-Devi-Wadepuri-Loha-Wadepuri/9999P2462-2462-181113223734-T2H9_BZDET">Mata Ratneshwari Devi in Wadepuri, Nanded</a>
+    </string>
+
+
+    <string name="link16">
+        <a href="https://www.yatra.com/hotels/hotels-in-nanded/hotel-atithi">Hotel Aditi  Near Ambedkar Chowk, Latur Phata, Cidco Rd, Nanded, Maharashtra 431603</a>
+    </string>
+
+
+    <string name="link17">
+        <a href="https://www.makemytrip.com/hotels/hotel_padmawati_grand-details-nanded.html">Hotel Padmawati Grand  near Gajanan Maharaj Mandir, Nanded, Maharashtra 431605</a>
+    </string>
+
+
+    <string name="link18">
+        <a href="https://www.makemytrip.com/hotels/hotel_pooja_garden_and_lodging-details-nanded.html">Hotel Pooja Garden   MHADA Colony, Nanded, Maharashtra 431603</a>
+    </string>
+
+
+</resources>
